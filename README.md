@@ -6,3 +6,5 @@ The deserialization has gain a lot of attention in the last years because of its
 
 The goal of this project is to create a de facto benchmark application to evaluate the effectiveness of static security scanners, with a particular focus on Insecure Deserialization vulnerabilities.
 This benchmark application contains portions of code that static security scanners cannot easily navigate, thus possibly hiding the included Insecure Deserialization vulnerabilities.
+
+To execute a scan with your desired security scanner it is enough to download this repository (git clone https://github.com/alex97saba/BenchStress.git) and launch a scan on it through an IDE or from command line with your tool.
